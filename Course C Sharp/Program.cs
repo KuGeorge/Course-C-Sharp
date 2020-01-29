@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Course_C_Sharp
 {
@@ -10,8 +6,10 @@ namespace Course_C_Sharp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
-            Console.ReadLine();
+            RNA_Transcription.Test();
+            Twofer.Test();
+            SimpleCipher.Test();
         }
+
     }
 }

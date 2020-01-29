@@ -45,6 +45,9 @@
   <ItemGroup>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RNA_Transcription.cs" />
+    <Compile Include="SimpleCipher.cs" />
+    <Compile Include="Twofer.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
